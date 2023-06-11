@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there, I'm Katie 🌱</h1>
 
-<!-- Social icons section -->
+<!-- Social icons section
 <p align="center">
   <a href="www.linkedin.com/in/carusokatie"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_icon.svg"/></a>
-</p>
+</p> -->
 
 I'm a researcher based in Asheville, NC with experience in R, Python, and HTML. I am fascinated by ecology and learning about forests, bryphytes, and lichens.
 

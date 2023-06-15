@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Katie 🌱</h1>
+<h1 align="center"> Hi, I'm Katie 🌱</h1>
 
 <!-- Social icons section
 <p align="center">
